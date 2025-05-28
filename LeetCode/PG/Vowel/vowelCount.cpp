@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<cctype.h>
+#include<stdio>
+#include<cctype>
 int main() {
     // string chr= "Aello World";
     string chr;
