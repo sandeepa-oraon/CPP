@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<cctype.h>
 int main() {
     // string chr= "Aello World";
     string chr;
