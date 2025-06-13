@@ -10,6 +10,13 @@ public:
             //     }
             // }
         }
+
+        // unordered_set<char> setJewel(jewels.begin(), jewels.end());
+        // for(char stone: stones){
+        //     if(setJewel.count(stone))
+        //         num++;
+        // }
+        
         return num;
     }
 };
