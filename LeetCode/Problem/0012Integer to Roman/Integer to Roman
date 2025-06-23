@@ -17,7 +17,6 @@ Given an integer, convert it to a Roman numeral.
  
 
 Example 1:
-
 Input: num = 3749
 Output: "MMMDCCXLIX"
 Explanation:
@@ -28,7 +27,6 @@ Explanation:
 Note: 49 is not 1 (I) less of 50 (L) because the conversion is based on decimal places
 
 Example 2:
-
 Input: num = 58
 Output: "LVIII"
 Explanation:
@@ -42,6 +40,6 @@ Output: "MCMXCIV"
 Explanation:
 
 1000 = M
- 900 = CM
-  90 = XC
-   4 = IV
+900 = CM
+90 = XC
+4 = IV
